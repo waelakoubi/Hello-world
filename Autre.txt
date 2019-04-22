@@ -1,3 +1,3 @@
 Deuxième fichier readme
 Et maintenant on modifie depuis gitHub
-mais aussi depuis ma machine locale
+mais aussi depuis ma machine locale et c'est cool
